@@ -34,7 +34,7 @@
     "@resvg/resvg-js": "2.6.2",
     "@sveltejs/adapter-auto": "4.0.0",
     "@sveltejs/adapter-vercel": "5.5.3",
-    "@sveltejs/kit": "2.16.0",
+    "@sveltejs/kit": "2.20.6",
     "@sveltejs/vite-plugin-svelte": "5.0.3",
     "@tailwindcss/typography": "0.5.16",
     "@types/eslint": "9.6.1",
