@@ -16,7 +16,7 @@ export const featuredProjects: iProjects[] = [
     tags: ['Svelte', 'Hono', 'Upstash', 'shadcn/ui'],
     url: 'https://svgl.app/',
     githubUrl: 'https://github.com/pheralb/svgl',
-    icon: 'https://raw.githubusercontent.com/pheralb/svgl/main/static/images/logo.svg'
+    icon: 'https://raw.githubusercontent.com/pheralb/svgl/main/static/images/svgl_svg.svg'
   },
   {
     title: 'react-symbols',
